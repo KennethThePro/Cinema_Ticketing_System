@@ -4,6 +4,7 @@
 The purpose of this program is is to generate movie tickets that is purchased by a customer. A customer can purchase as many tickets as they wish for other people. 
 
 ## Features of the Cinema Ticketing System
+The Cinema Ticketing System will show some simple menus for the staff and then the customer to select which are:
 1. Selection of a movie, day, date and time of the movie by the staff
 2. Selction of different classes of seats (Class 0 - VIP, Class 1 - front, Class 2 - back)
 3. Selection of seat numbers for adult, children and students
