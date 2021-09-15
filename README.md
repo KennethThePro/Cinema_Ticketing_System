@@ -1,7 +1,7 @@
 # Cinema Ticketing System using C++
 
 ## Purpose
-The purpose of this program is is to generate movie tickets that is purchased by a customer. A customer can purchase as many tickets as they wish for other people. 
+The purpose of this program is to generate movie tickets that is purchased by a customer. A customer can purchase as many tickets as they wish for other people. 
 
 ## Features of the Cinema Ticketing System
 The Cinema Ticketing System will show some simple menus for the staff and then the customer to select which are:
